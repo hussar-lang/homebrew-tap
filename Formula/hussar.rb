@@ -24,8 +24,6 @@ class Hussar < Formula
     end
   end
   
-  head "https://github.com/hussar-lang/hussar.git"
-
   def install
     bin.install "hussar"
   end
