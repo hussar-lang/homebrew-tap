@@ -25,19 +25,12 @@ class Hussar < Formula
   end
   
   head "https://github.com/hussar-lang/hussar.git"
-  ...
 
   def install
     bin.install "hussar"
   end
 
-  def caveats; <<~EOS
-    How to use this binary
-  EOS
-  end
-
   test do
     system "#{bin}/hussar env"
-    ...
   end
 end
