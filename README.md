@@ -1,6 +1,6 @@
 # Hussar Homebrew Tap
 
-![build status](https://travis-ci.org/hussar-lang/homebrew-tap.svg)
+[![Build Status](https://travis-ci.org/hussar-lang/homebrew-tap.svg?branch=master)](https://travis-ci.org/hussar-lang/homebrew-tap)
 
 To install Hussar using Homebrew, enter the following on your command line:
 
